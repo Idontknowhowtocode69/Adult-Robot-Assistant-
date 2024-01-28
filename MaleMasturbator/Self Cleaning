@@ -1,0 +1,4 @@
+The proposed method of self cleaning will be steam sterlization with the water being provided by the purge tank that will also be located in the unit. 
+Initial proposed heating source will be a length of resistive wire (First prototype will likely utilize Nichrome wire) wrapped around the exterior of the chamber. 
+Nichrome wire has a maximum operating temperature of 900C, meaning that some form of insulation will be needed aroud the wires. 
+As 900C is far to high for any foam based insulation, my initial thought was ceramic wool. However after skimming the SDS for ceramic wool, I have decided to use sand as the insulative material for initial testing.
